@@ -1,0 +1,346 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.img-1{
+    background-image: url(img-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 115%;
+    display: flex;
+    box-shadow:inset 450px 80px 100px rgba(0, 0, 0, 0.639)
+}
+.b-1{
+    color: aliceblue;
+    margin-top: 10px;
+    font-size: 10px;
+}
+.b-1:hover{
+color:orange;
+}
+.b-2{
+    font-family: "montserrat";
+    color: white;
+    height: min-content;
+    width: max-content;
+    margin-left: 82%;
+    margin-top: -3%;
+    border-radius: 30px;
+    font-size: 10px;
+}
+.b-3{
+    font-family: "montserrat";
+    color: aliceblue;
+    height: min-content;
+    width: max-content;
+    border-radius: 30px;
+}
+.l{
+    height: 58px;
+    width: 130px;
+    margin-top: -40px;
+    margin-left: 160px;
+}
+.unl{
+    font-family: "montserrat";
+    margin-left: 160px;
+    padding-top: 100px;
+    font-weight: 300;
+    font-size: 39;
+    color: white;
+}
+.pow,
+.lea{
+    font-family: "montserrat";
+    margin-top: -13px;
+}
+
+.pre1{
+    font-family: "montserrat";
+    font-size: 12;
+    color: white;
+    margin-left: 160px;
+    padding-top: 15px;
+}
+.b-3{
+    font-family: "montserrat";
+    font-size: 10;
+    color: white;
+    border-radius: 30px;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.symbol
+{
+    height: 50px;
+    width: 50px;
+}
+.che1
+{
+    background-color: rgb(130, 8, 245);
+    width: 230px;
+    height: 40px;
+    border-radius: 50px;
+    color: white;
+    border-bottom-right-radius: 0%;
+    text-align: center;
+    font-size: 0.7vw;
+    margin-left: 600px;
+    padding-top: 6px;
+    margin-top: -80px;
+}
+.che2
+{
+    background-color: deeppink;
+    width: 230px;
+    height: 40px;
+    text-align: center;
+    border-radius: 50px;
+    color:white;
+    border-bottom-left-radius: 0%;
+    font-size: 0.7vw;
+    margin-left: 660px;
+    padding-top: 6px;
+    margin-top: 1%;
+}
+.che3
+{
+    background-color: darkorange;
+    width: 230px;
+    height: 40px;
+    text-align: left;
+    border-radius: 50px;
+    margin-left: 590px;
+    margin-top: 1%;
+    color:white;
+    padding-top: 6px;
+    padding-left: 30px;
+    border-bottom-left-radius: 0%;
+    font-size: 0.7vw;
+}
+.p-2{
+    background-color:white;
+    height: 60px;
+    width: 800px;
+    border-radius: 60px;
+    box-shadow: 1px 1px 1px;
+    margin-left: 18%;
+    margin-top: 70px;
+
+}
+.b-4{
+    font-family: "montserrat";
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 9px;
+    font-size: 13px;
+    margin-top: -3px;
+}
+.b-5{
+    color: white;
+    font-size: 10;
+    border-radius: 30px;
+    height: 40px;
+    margin-top: 3px;
+    margin-left: 10px;
+    width: 150px;
+}
+.b-4:hover{
+    background-color: rgba(202, 226, 250, 0.632);
+    border-radius: 90px;
+    height: 49px;
+}
+.design{
+    font-family: "montserrat";
+    margin-top: 160px;
+    font-size: 30;
+    font-weight: 500;
+    margin-left: 120px;
+}
+.support{
+    font-family: "montserrat";
+    font-size: 23;
+    font-weight: 450;
+    margin-left: 120px;
+}
+.employee{
+    font-family: "montserrat";
+    font-size: 10;
+    font-weight: 300;
+    margin-left: 120px;
+    margin-top: -12px;
+}
+.b-6{
+    color: white;
+    font-size: 10px;
+    border-radius: 30px;
+    height: 35px;
+    width: 130px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.img-2{
+    height: 240px;
+    width: 180px;
+    border-radius: 10px;
+    margin-top: 120px;
+    margin-left: 180px;
+}
+.img-3{
+    height: 150px;
+    width: 240px;
+    border-radius: 10px;
+    margin-top: -130px;
+    margin-left: 120px;
+}
+.img-4{
+    height: 240px;
+    width: 180px;
+    border-radius: 10px;
+    margin-left: 370px;
+    margin-top: -100px;
+}
+.img-5{
+
+    background-image: url(img-5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110%;
+    width: 100%;
+    margin-top: 80px;
+}
+.how{
+    font-family: "montserrat";
+    font-size: 12;
+    margin-top: 150px;
+    font-weight: 450;
+}
+.we{
+    font-family: "montserrat";
+    font-size: 35;
+    font-weight: 450;
+}
+.D{
+    font-family: "montserrat";
+    font-size: 30;
+    font-weight: 450;
+    
+}
+.P{
+    font-family: "montserrat";
+    font-size: 12;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.b-7{
+    color: rgb(12, 12, 12);
+    font-size: 12px;
+    margin-top: 20px;
+}
+.b-7:hover{
+    background-color: orange;
+    height: 30px;
+    width: 97px;
+    border-radius: 40px;
+    color: antiquewhite;
+}
+.logo-1,
+.logo-2,
+.logo-3,
+.logo-4{
+    margin-top: 100px;
+}
+.part3{
+    padding-left: 150px;
+}
+.flow{
+    font-family: "montserrat";
+    font-size: 10;
+    font-weight: 400;
+    margin-left: 550px;
+    margin-top: 60px;
+}
+.user{
+    font-weight: 400;
+    font-family: "montserrat";
+    font-size: 30;
+    font-weight: 300;
+    margin-left: 450px;
+}
+.I{
+    font-weight: 400;
+    font-family: "montserrat";
+    font-size: 22;
+    font-weight: 300;
+    position: relative;
+    top: 25%;
+}
+.A{
+    font-weight: 400;
+    font-family: "montserrat";
+    margin-top: 900px;
+}
+.P2{
+    font-weight: 400;
+    font-size: 13;
+    word-spacing: 3px;
+    position: relative;
+    top: 30%;
+}
+.part5{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.acc{
+    font-weight: 400;
+    font-size: 10;
+    margin-top: 100px;
+    margin-left: 510px;
+}
+.ema{
+    font-weight: 400;
+    background-color: white;
+    height: 60px;
+    width: 500px;
+    padding-top: 0.5%;
+    border-radius: 60px;
+    box-shadow: 1px 1px 1px;
+    margin-left: 30%;
+    margin-top: 40px;
+    text-align: left;
+}
+.b-8{
+    color: white;
+    height: 35px;
+    width: 150px;
+    font-size: 10px;
+    border-radius: 30px;
+    margin-left: 320px;
+    margin-top: -42px;
+}
+.text6{
+    font-size: 12;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.part-6{
+    margin-left: 200px;
+    margin-top: 150px;
+}
+.OP{
+    font-size: 10;
+    position: relative;
+    bottom: 9%;
+}
+.B{
+    font-size: 30;
+    font-weight: 300;
+    position: relative;
+    bottom: 4%;
+}
+.PRE{
+    color: gray;
+    font-size: 13;
+    word-spacing: 3px;
+}
+.lep{
+    height: 300px;
+    width: 400px;
+}
