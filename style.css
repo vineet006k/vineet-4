@@ -7,6 +7,9 @@
     display: flex;
     box-shadow:inset 450px 80px 100px rgba(0, 0, 0, 0.639)
 }
+.container-fluid{
+    overflow-x:hidden;
+}
 .b-1{
     color: aliceblue;
     margin-top: 10px;
